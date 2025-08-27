@@ -9,3 +9,7 @@ Histograma de Contagem de Streams: Visualize a distribuição do número de stre
 Gráfico de Dispersão de Views vs Stream: Explore a relação entre o número de visualizações no YouTube e o número de streams no Spotify.
 Artista com Mais Streams: Identifique e exiba o artista com o maior número total de streams no conjunto de dados.
 As visualizações podem ser ativadas e desativadas usando caixas de seleção na interface do aplicativo.
+
+
+Obrigado por revisar!!!! 
+Qualquer dúvidas entrar em contato: ronescn@gmail.com
