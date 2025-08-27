@@ -29,3 +29,7 @@ if build_scatter:
     st.write('Criando um gráfico de dispersão de Views vs Stream')
     fig_scatter = px.scatter(df, x="Views", y="Stream")
     st.plotly_chart(fig_scatter, use_container_width=True)
+
+    git add Streamlit/config.toml
+git commit -m "Adiciona e configura config.toml para Streamlit"
+git push
