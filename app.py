@@ -29,6 +29,3 @@ most_streamed_artist = artist_streams.loc[artist_streams['Stream'].idxmax()]
 
 st.write(f"O artista com mais streams no Spotify neste conjunto de dados é **{most_streamed_artist['Artist']}** com um total de **{most_streamed_artist['Stream']:.2f}** streams.")
 
-git add Streamlit/config.toml
-git commit -m "Adiciona e configura config.toml para Streamlit"
-git push
