@@ -1,4 +1,4 @@
-# ProjetoSprint5
+# Spotify Youtube
 Análise de Dados Spotify e YouTube
 Este projeto realiza uma análise exploratória de um conjunto de dados contendo informações sobre músicas do Spotify e seus vídeos correspondentes no YouTube.
 
