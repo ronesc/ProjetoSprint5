@@ -11,5 +11,3 @@ Artista com Mais Streams: Identifique e exiba o artista com o maior número tota
 As visualizações podem ser ativadas e desativadas usando caixas de seleção na interface do aplicativo.
 
 
-Obrigado por revisar!!!! 
-Qualquer dúvidas entrar em contato: ronescn@gmail.com
